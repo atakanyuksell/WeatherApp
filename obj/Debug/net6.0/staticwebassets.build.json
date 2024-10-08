@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "9yThrd8393+yfMkAoh3hrNTgWNVBov7yiOS5d3Z2VaE=",
+  "Source": "WheatherAppSol",
+  "BasePath": "_content/WheatherAppSol",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WheatherAppSol\\wwwroot",
+      "Source": "WheatherAppSol",
+      "ContentRoot": "C:\\Users\\Atakan\\Desktop\\İş Bulma\\ÇözdüğümAppler\\WheatherAppSol\\wwwroot\\",
+      "BasePath": "_content/WheatherAppSol",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Atakan\\Desktop\\İş Bulma\\ÇözdüğümAppler\\WheatherAppSol\\wwwroot\\StyleSheet.css",
+      "SourceId": "WheatherAppSol",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Atakan\\Desktop\\İş Bulma\\ÇözdüğümAppler\\WheatherAppSol\\wwwroot\\",
+      "BasePath": "_content/WheatherAppSol",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
