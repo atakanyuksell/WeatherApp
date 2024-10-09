@@ -61,3 +61,4 @@ C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\
 C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\net6.0\ServiceContracts.pdb
 C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\net6.0\WeatherServices.pdb
 C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\net6.0\Wheather.F9479FDD.Up2Date
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\net6.0\.filenesting.json
