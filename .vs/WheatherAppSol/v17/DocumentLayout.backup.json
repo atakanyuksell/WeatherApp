@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E3807-76DA-4266-8181-764E6F888888}|..\\WeatherService\\WeatherServices.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\weatherservice\\weatherservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726402ED-EB95-4CED-B545-15A65B28E237}|..\\IWeatherService\\ServiceContracts.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\iweatherservice\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\wheatherappsol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:wheatherappsol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\AspNetCore-Harsha-main\\11. Dependency Injection\\11. Best Practices for DI\\ServiceContracts\\ICitiesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726402ED-EB95-4CED-B545-15A65B28E237}|..\\IWeatherService\\ServiceContracts.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\iweatherservice\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +46,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -20,8 +65,126 @@
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherServices",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WeatherService\\WeatherServices.csproj",
+              "RelativeDocumentMoniker": "..\\WeatherService\\WeatherServices.csproj",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WeatherService\\WeatherServices.csproj",
+              "RelativeToolTip": "..\\WeatherService\\WeatherServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T14:45:10.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WheatherAppSol",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\WheatherAppSol.csproj",
+              "RelativeDocumentMoniker": "WheatherAppSol.csproj",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\WheatherAppSol.csproj",
+              "RelativeToolTip": "WheatherAppSol.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T13:59:03.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\IWeatherService\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "..\\IWeatherService\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\IWeatherService\\ServiceContracts.csproj",
+              "RelativeToolTip": "..\\IWeatherService\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T13:32:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\IWeatherService\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "..\\IWeatherService\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\IWeatherService\\IWeatherService.cs",
+              "RelativeToolTip": "..\\IWeatherService\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:23:07.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Models\\CityWeather.cs",
+              "RelativeDocumentMoniker": "Models\\CityWeather.cs",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Models\\CityWeather.cs",
+              "RelativeToolTip": "Models\\CityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:39:26.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T17:38:07.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\AspNetCore-Harsha-main\\11. Dependency Injection\\11. Best Practices for DI\\ServiceContracts\\ICitiesService.cs",
+              "RelativeDocumentMoniker": "..\\..\\AspNetCore-Harsha-main\\11. Dependency Injection\\11. Best Practices for DI\\ServiceContracts\\ICitiesService.cs",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\AspNetCore-Harsha-main\\11. Dependency Injection\\11. Best Practices for DI\\ServiceContracts\\ICitiesService.cs",
+              "RelativeToolTip": "..\\..\\AspNetCore-Harsha-main\\11. Dependency Injection\\11. Best Practices for DI\\ServiceContracts\\ICitiesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:34:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T15:36:33.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:37:29.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T15:35:06.291Z"
             }
           ]
         },
