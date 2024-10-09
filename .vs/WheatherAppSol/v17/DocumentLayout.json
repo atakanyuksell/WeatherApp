@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|c:\\users\\atakan\\desktop\\\u0130\u015F bulma\\\u00E7\u00F6zd\u00FC\u011F\u00FCmappler\\wheatherappsol\\wheatherappsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23F28C73-CC64-4070-9648-858BC6E8C890}|WheatherAppSol.csproj|solutionrelative:wheatherappsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:49:12.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WheatherAppSol",
+              "DocumentMoniker": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\WheatherAppSol.csproj",
+              "RelativeDocumentMoniker": "WheatherAppSol.csproj",
+              "ToolTip": "C:\\Users\\Atakan\\Desktop\\\u0130\u015F Bulma\\\u00C7\u00F6zd\u00FC\u011F\u00FCmAppler\\WheatherAppSol\\WheatherAppSol.csproj",
+              "RelativeToolTip": "WheatherAppSol.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T14:49:07.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
