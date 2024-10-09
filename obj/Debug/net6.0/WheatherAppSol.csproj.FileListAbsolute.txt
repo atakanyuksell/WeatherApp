@@ -54,3 +54,10 @@ C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\
 C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\net6.0\WheatherAppSol.pdb
 C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\net6.0\WheatherAppSol.genruntimeconfig.cache
 C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\net6.0\ref\WheatherAppSol.dll
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\net6.0\WheatherAppSol.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\net6.0\WheatherAppSol.sourcelink.json
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\net6.0\WeatherServices.dll
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\bin\Debug\net6.0\WeatherServices.pdb
+C:\Users\Atakan\Desktop\İş Bulma\ÇözdüğümAppler\WheatherAppSol\obj\Debug\net6.0\Wheather.F9479FDD.Up2Date
