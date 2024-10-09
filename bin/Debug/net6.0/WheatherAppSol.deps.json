@@ -7,14 +7,47 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "WheatherAppSol/1.0.0": {
+        "dependencies": {
+          "ServiceContracts": "1.0.0",
+          "WeatherServices": "1.0.0"
+        },
         "runtime": {
           "WheatherAppSol.dll": {}
+        }
+      },
+      "ServiceContracts/1.0.0": {
+        "dependencies": {
+          "WeatherServices": "1.0.0"
+        },
+        "runtime": {
+          "ServiceContracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WeatherServices/1.0.0": {
+        "runtime": {
+          "WeatherServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "WheatherAppSol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherServices/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
