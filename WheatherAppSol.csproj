@@ -10,4 +10,9 @@
     <None Include="wwwroot\StyleSheet.css" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IWeatherService\ServiceContracts.csproj" />
+    <ProjectReference Include="..\WeatherService\WeatherServices.csproj" />
+  </ItemGroup>
+
 </Project>

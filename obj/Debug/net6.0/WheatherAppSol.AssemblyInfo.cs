@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WheatherAppSol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4de38d0d03bb2c6149b15fcff1ac843134425e71")]
 [assembly: System.Reflection.AssemblyProductAttribute("WheatherAppSol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WheatherAppSol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
